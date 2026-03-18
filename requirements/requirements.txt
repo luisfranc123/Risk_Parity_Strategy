@@ -1,0 +1,32 @@
+# ============================================================
+# Project Requirements
+# Portfolio Optimization & Backtesting
+# ============================================================
+
+# --- Core Scientific Computing ---
+numpy >= 1.24.0
+pandas >= 2.0.0
+scipy >= 1.10.0
+
+# --- Statistical Modeling ---
+statsmodels >= 0.14.0
+
+# --- Date Utilities ---
+python-dateutil >= 2.8.2
+
+# --- Financial Data ---
+yfinance >= 0.2.36
+
+# --- Portfolio & Risk Analysis ---
+riskfolio-lib >= 6.0.0
+riskparityportfolio >= 0.4.0
+
+# --- Visualization ---
+matplotlib >= 3.7.0
+
+# ============================================================
+# Standard Library (no installation required)
+# ============================================================
+# datetime    (built-in)
+# functools   (built-in)
+# math        (built-in)
