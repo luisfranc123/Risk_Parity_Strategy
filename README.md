@@ -1,2 +1,2 @@
-# Risk_Parity_Strategy
-Risk Parity Strategy with yield reinvestment dividends.
+## Risk Parity Strategy
+With yield reinvestment dividends.
